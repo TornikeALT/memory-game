@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 700px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    margin:auto;
+    overflow: hidden;
+}
